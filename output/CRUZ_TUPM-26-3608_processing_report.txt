@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: CRUZ
+Student ID: TUPM-26-3608
+Seed Digit: 8
+ID Sum: 25
+Verification Value: 108
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 1.933
+JSON File: CRUZ_TUPM-26-3608_record.json
+Backup File: CRUZ_TUPM-26-3608_record.csv

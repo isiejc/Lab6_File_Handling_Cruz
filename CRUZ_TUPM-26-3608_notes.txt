@@ -1,0 +1,5 @@
+Student: CRUZ
+Student ID: TUPM-26-3608
+Seed Digit: 8
+ID Sum: 25
+Verification value: 108
